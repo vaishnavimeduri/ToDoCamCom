@@ -1,0 +1,15 @@
+.Form {
+  text-align: center;
+  align-items: center;
+}
+
+.navigate {
+  background-color: red;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 200px;
+  height: 55px;
+  border-radius: 27.5px;
+}

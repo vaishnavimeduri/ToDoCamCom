@@ -1,0 +1,30 @@
+.list-element {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.List {
+  display: flex;
+  text-align: center;
+  align-content: center;
+  flex-direction: column;
+}
+.navigate {
+  background-color: red;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 200px;
+  height: 25px;
+  border-radius: 27.5px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.visibility-hidden {
+  visibility: hidden;
+  height: 0px;
+  width: 0px;
+}
